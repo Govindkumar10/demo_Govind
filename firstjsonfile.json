@@ -1,0 +1,22 @@
+[{
+"firstName":"Govind",
+"lastName":"Chenampully",
+"age":21,
+"marks":[
+    {"english":26},
+    {"math":28}
+    ],
+"address":"hyd"
+},
+
+{
+"firstName":"Tejas",
+"lastName":"acha",
+"age":22,
+"marks":[
+    {"english":23},
+    {"math":25}
+    ],
+"address":"hyd"
+}
+]
